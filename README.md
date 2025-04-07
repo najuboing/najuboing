@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Naju Boing!
 - 👀 I’m interested in music, technologies, books, sports, horror movies... 😂
-- 🌱 I’m currently learning Java development, my college subjects and Front-End.
+- 🌱 I’m currently learning and specializing in QA.
 - 💞️ I’m looking to collaborate on everything I can add.
 
 <!---
